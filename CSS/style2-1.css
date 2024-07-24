@@ -1,0 +1,45 @@
+/* bodyは触らない */
+
+body {
+
+  background-color:pink;
+ 
+ }
+ body {
+  font-family: Arial, sans-serif;
+ }
+ 
+ div {
+  font-size: 20px;
+ }
+
+ h3 {
+  font-size: 28px;
+ }
+ h4 {
+  font-size: 24px;
+ }
+
+ ol {
+  font-size: 18px;
+ }
+ .blue{color: blue;}
+
+ .abc{color: red;}
+ #abc{color: yellow;}
+ 
+ /* divのフォントサイズをCSSで20に設定 */
+ 
+ /* div内のフォントをArialに設定 /* body*/
+ 
+ /* h3の文字の大きさをCSSで28に設定 */
+ 
+ /* h4の文字の大きさを24にする */
+ 
+ /* ナンバリングリストの文字の大きさ18px */
+ 
+ /* ナンバリングリストの文字の色 青色 */
+ 
+ /*  クラス名"abc"の文字を赤色 */
+ 
+ /*  id名"abc"の文字を黄色 */

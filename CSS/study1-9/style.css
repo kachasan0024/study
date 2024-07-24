@@ -1,0 +1,72 @@
+.image1,.image2,.image3,.image4,.image5 {
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+.top-content,.bottom-content {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: darkolivegreen;
+}
+.left-content,.center-content,.right-contnt {
+    text-align: center;
+    width: 30%;
+}
+.lanch-time,.dinner-time,h2 {
+    background-color: darkorange;
+}
+form {
+    background-color: darkgrey;
+    height: 100vh;
+    margin-top: 60px;
+    margin-bottom: auto;
+}
+
+p {
+    text-align: center;
+    padding: 15px;
+}
+input {
+    margin: auto;
+}
+textarea {
+    width: auto;
+    padding: 20px;
+    box-sizing: content-box;
+    font-size: 20px;
+}
+button {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    background-color: burlywood;
+}
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.menu li {
+    margin-left: 10px;
+}
+.menu a {
+    color: darkred;
+}
+
+.texts {
+    background-color: burlywood
+}
